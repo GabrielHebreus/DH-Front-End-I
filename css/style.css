@@ -6,17 +6,18 @@ i {
     border: solid;
     width: auto;
     height: auto;
-
+    box-sizing: border-box;
 }
 h1{
     font-size: 70px;
     text-align: center;
     color: #2196F3;
     
+    
 }
 body{
     background-image: url(../img/tild3131-3830-4134-b439-336463396166__photo_copy_1.jpg);
-    background-size: cover;
+    background-size:cover;
     background-position: center;
     height: 500px;
     
