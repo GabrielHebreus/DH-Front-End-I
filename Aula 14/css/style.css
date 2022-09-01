@@ -150,11 +150,15 @@ footer {
 footer h3 {
     color: white;
 }
-@media(min-width: 460px){
+@media(max-width: 460px){
     .Ambiente-Card{
         display: flex;
         flex-wrap: nowrap;
         flex-direction: column;
         justify-content: center;
+    }
+    footer h3{
+        font-size: 0.75rem;
+
     }
 }
