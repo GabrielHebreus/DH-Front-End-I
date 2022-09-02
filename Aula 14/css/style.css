@@ -163,7 +163,8 @@ footer a {
         display: flex;
         flex-wrap: nowrap;
         flex-direction: column;
-        justify-content: center;
+        justify-content: space-between;
+        margin-left:5%;
     }
     footer h3{
         font-size: 0.75rem;
@@ -179,5 +180,5 @@ footer a {
         
     
     }
-    
+   
 }
