@@ -38,6 +38,7 @@ button {
     text-align: center;
     color: #f3f3f3;
     font-size: 30px;
+    z-index: 1;
 }
 
 h4 {
