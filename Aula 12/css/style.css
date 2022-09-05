@@ -105,7 +105,6 @@ span {
 
 .bg {
     position: relative;
-
     width: 100%;
     height: 539px;
     display: flex;
@@ -673,3 +672,4 @@ main{
 span21{
     padding: 120px;
 }
+
